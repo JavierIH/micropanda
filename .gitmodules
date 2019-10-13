@@ -1,0 +1,3 @@
+[submodule "micropanda_3d"]
+	path = micropanda_3d
+	url = https://github.com/JavierIH/micropanda_3d
