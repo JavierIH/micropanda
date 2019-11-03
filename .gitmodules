@@ -4,3 +4,6 @@
 [submodule "micropanda_hw"]
 	path = micropanda_hw
 	url = https://github.com/JavierIH/micropanda_hw
+[submodule "micropanda_sw"]
+	path = micropanda_sw
+	url = https://github.com/JavierIH/micropanda_sw
