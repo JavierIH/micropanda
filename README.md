@@ -1,5 +1,7 @@
 # Micropanda
 
+![](doc/micropanda.png)
+
 En desarrollo...
 
 # License
